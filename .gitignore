@@ -1,4 +1,4 @@
 *.csv
 *.txt
 !teste2.txt
-teste.json
+!teste.json
