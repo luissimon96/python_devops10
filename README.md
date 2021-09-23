@@ -1,1 +1,3 @@
-Adicionei chave ssh e configurei o repositório local
+# README.md
+
+Treinamento Python DevOps 1.0
