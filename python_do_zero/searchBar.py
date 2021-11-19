@@ -1,3 +1,4 @@
+# Este código cria uma caixa de pesquisa em um nova janela
 from tkinter import *
 import webbrowser
 
