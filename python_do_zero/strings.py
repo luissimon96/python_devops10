@@ -79,8 +79,9 @@ print('')
 
 # Consultando se o conjunto de caracteres existe na string, retornando True ou False
 print('##### Operadores IN e NOT IN #####')
+
 result = 'Frango' in pastel5
 print(result)
-
+# Consultando se o conjunto de caracteres não existe na string, retornando True ou False
 result = 'Frango' not in pastel5
 print(result)
