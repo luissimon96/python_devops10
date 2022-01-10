@@ -1,4 +1,4 @@
-print('Seja bem vindo a pastelaria DevOps')
+print("Seja bem vindo a pastelaria DevOps")
 print('Faça seu pedido')
 # Solicitando para que o usuário digite a sua entrada
 # Neste exemplo a entrada sempre vai ser String
